@@ -1,0 +1,18 @@
+D:\jewel\aaa\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+D:\jewel\aaa\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+D:\jewel\aaa\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+D:\jewel\aaa\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+D:\jewel\aaa\AccountOperationApp\obj\Debug\AccountOperationApp.Form1.resources
+D:\jewel\aaa\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+D:\jewel\aaa\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+D:\jewel\aaa\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+D:\jewel\aaa\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+F:\all apps\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+F:\all apps\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+F:\all apps\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+F:\all apps\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+F:\all apps\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+F:\all apps\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+F:\all apps\AccountOperationApp\obj\Debug\AccountOperationApp.Form1.resources
+F:\all apps\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+F:\all apps\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
